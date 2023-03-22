@@ -1,0 +1,46 @@
+C:\Users\aleee\Desktop\Facultate\Medii Vizuale\Proiect2\Proiect2\bin\Debug\Proiect2.exe.config
+C:\Users\aleee\Desktop\Facultate\Medii Vizuale\Proiect2\Proiect2\bin\Debug\Proiect2.exe
+C:\Users\aleee\Desktop\Facultate\Medii Vizuale\Proiect2\Proiect2\bin\Debug\Proiect2.pdb
+C:\Users\aleee\Desktop\Facultate\Medii Vizuale\Proiect2\Proiect2\bin\Debug\EntityFramework.dll
+C:\Users\aleee\Desktop\Facultate\Medii Vizuale\Proiect2\Proiect2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aleee\Desktop\Facultate\Medii Vizuale\Proiect2\Proiect2\bin\Debug\EntityFramework.xml
+C:\Users\aleee\Desktop\Facultate\Medii Vizuale\Proiect2\Proiect2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aleee\Desktop\Facultate\Medii Vizuale\Proiect2\Proiect2\obj\Debug\Proiect2.csproj.AssemblyReference.cache
+C:\Users\aleee\Desktop\Facultate\Medii Vizuale\Proiect2\Proiect2\obj\Debug\Proiect2.csproj.SuggestedBindingRedirects.cache
+C:\Users\aleee\Desktop\Facultate\Medii Vizuale\Proiect2\Proiect2\obj\Debug\Proiect2.Properties.Resources.resources
+C:\Users\aleee\Desktop\Facultate\Medii Vizuale\Proiect2\Proiect2\obj\Debug\Proiect2.csproj.GenerateResource.cache
+C:\Users\aleee\Desktop\Facultate\Medii Vizuale\Proiect2\Proiect2\obj\Debug\Proiect2.csproj.CoreCompileInputs.cache
+C:\Users\aleee\Desktop\Facultate\Medii Vizuale\Proiect2\Proiect2\obj\Debug\Proiect2.csproj.CopyComplete
+C:\Users\aleee\Desktop\Facultate\Medii Vizuale\Proiect2\Proiect2\obj\Debug\Proiect2.exe
+C:\Users\aleee\Desktop\Facultate\Medii Vizuale\Proiect2\Proiect2\obj\Debug\Proiect2.pdb
+C:\Users\aleee\Desktop\Facultate\Medii Vizuale\Proiect2\Proiect2\obj\Debug\Proiect2.LoginPage.resources
+C:\Users\aleee\Desktop\Facultate\Medii Vizuale\Proiect2\Proiect2\obj\Debug\Proiect2.MainWindow.resources
+C:\Users\aleee\Desktop\Facultate\Medii Vizuale\Proiect2\Proiect2\obj\Debug\Proiect2.AdaugareProdusTask.resources
+C:\Users\aleee\Desktop\Facultate\Medii Vizuale\Proiect2\Proiect2\obj\Debug\Proiect2.RegisterWindowTask.resources
+C:\Users\aleee\Desktop\Facultate\Medii Vizuale\Proiect2\Proiect2\obj\Debug\Proiect2.Detalii.resources
+C:\Users\aleee\Desktop\Facultate\Medii Vizuale\Proiect2\Proiect2\obj\Debug\Proiect2.UpdateCantitatePage.resources
+C:\Users\aleee\Desktop\Facultate\Medii Vizuale\Proiect2\Proiect2\obj\Debug\Proiect2.StergereCont.resources
+C:\Users\aleee\Desktop\Facultate\Medii Vizuale\Proiect2\Proiect2\obj\Debug\Proiect2.StergereProdus.resources
+D:\Facultate\Modul II\Medii Vizuale\Proiect2\Proiect2\bin\Debug\Proiect2.exe.config
+D:\Facultate\Modul II\Medii Vizuale\Proiect2\Proiect2\bin\Debug\Proiect2.exe
+D:\Facultate\Modul II\Medii Vizuale\Proiect2\Proiect2\bin\Debug\Proiect2.pdb
+D:\Facultate\Modul II\Medii Vizuale\Proiect2\Proiect2\bin\Debug\EntityFramework.dll
+D:\Facultate\Modul II\Medii Vizuale\Proiect2\Proiect2\bin\Debug\EntityFramework.SqlServer.dll
+D:\Facultate\Modul II\Medii Vizuale\Proiect2\Proiect2\bin\Debug\EntityFramework.xml
+D:\Facultate\Modul II\Medii Vizuale\Proiect2\Proiect2\bin\Debug\EntityFramework.SqlServer.xml
+D:\Facultate\Modul II\Medii Vizuale\Proiect2\Proiect2\obj\Debug\Proiect2.csproj.AssemblyReference.cache
+D:\Facultate\Modul II\Medii Vizuale\Proiect2\Proiect2\obj\Debug\Proiect2.csproj.SuggestedBindingRedirects.cache
+D:\Facultate\Modul II\Medii Vizuale\Proiect2\Proiect2\obj\Debug\Proiect2.AdaugareProdusTask.resources
+D:\Facultate\Modul II\Medii Vizuale\Proiect2\Proiect2\obj\Debug\Proiect2.Detalii.resources
+D:\Facultate\Modul II\Medii Vizuale\Proiect2\Proiect2\obj\Debug\Proiect2.LoginPage.resources
+D:\Facultate\Modul II\Medii Vizuale\Proiect2\Proiect2\obj\Debug\Proiect2.MainWindow.resources
+D:\Facultate\Modul II\Medii Vizuale\Proiect2\Proiect2\obj\Debug\Proiect2.RegisterWindowTask.resources
+D:\Facultate\Modul II\Medii Vizuale\Proiect2\Proiect2\obj\Debug\Proiect2.Properties.Resources.resources
+D:\Facultate\Modul II\Medii Vizuale\Proiect2\Proiect2\obj\Debug\Proiect2.StergereCont.resources
+D:\Facultate\Modul II\Medii Vizuale\Proiect2\Proiect2\obj\Debug\Proiect2.StergereProdus.resources
+D:\Facultate\Modul II\Medii Vizuale\Proiect2\Proiect2\obj\Debug\Proiect2.UpdateCantitatePage.resources
+D:\Facultate\Modul II\Medii Vizuale\Proiect2\Proiect2\obj\Debug\Proiect2.csproj.GenerateResource.cache
+D:\Facultate\Modul II\Medii Vizuale\Proiect2\Proiect2\obj\Debug\Proiect2.csproj.CoreCompileInputs.cache
+D:\Facultate\Modul II\Medii Vizuale\Proiect2\Proiect2\obj\Debug\Proiect2.csproj.CopyComplete
+D:\Facultate\Modul II\Medii Vizuale\Proiect2\Proiect2\obj\Debug\Proiect2.exe
+D:\Facultate\Modul II\Medii Vizuale\Proiect2\Proiect2\obj\Debug\Proiect2.pdb
